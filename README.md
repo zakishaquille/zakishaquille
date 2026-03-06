@@ -35,6 +35,7 @@ Currently building a **tech SaaS product as a solo technical founder**, handling
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
 
 ### Engineering
 
