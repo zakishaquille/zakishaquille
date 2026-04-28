@@ -1,11 +1,11 @@
 # Hi, I'm Shaquille 👋
 
-🚀 **Founder & Product Engineer | Senior Software Engineer**  
+🚀 **Senior Frontend Engineer | Product-driven, SEO & High-performance Web Apps | AI-assisted Development**  
 💻 9+ years building **high performance, scalable web platforms**
 
 I specialize in building **fast, SEO friendly, and production grade web applications** using modern frontend architecture.
 
-Currently building a **tech SaaS product as a solo technical founder**, handling everything from **product strategy, architecture, development, to deployment**.
+Currently building a **tech SaaS product**, handling everything from **product strategy, architecture, development, to deployment**.
 
 ---
 
